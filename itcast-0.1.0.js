@@ -1,3 +1,4 @@
+//这事干啥用的？？
 ( function ( global ){
   var document = global.document,
       arr = [],
